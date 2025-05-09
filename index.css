@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100vw;
+}
+@font-face {
+    font-family: 'Geist';
+    src: url('./Geist-VariableFont_wght.ttf');
+}
+
+h1, h2 {
+    color: white;
+    font-family: 'Geist';
+}
